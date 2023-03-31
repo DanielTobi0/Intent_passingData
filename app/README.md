@@ -17,3 +17,5 @@ In order to get the app running yourself, you need to:
 4.  In Android Studio, click on the "Run" button.
 
 # Demo
+
+git here
