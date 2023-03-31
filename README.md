@@ -1,6 +1,8 @@
 
 # Intent, data passing.
 
+a simple implemetation to pass data between activities.
+
 
 ## Setup Requirements
 
