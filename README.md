@@ -18,4 +18,5 @@ In order to get the app running yourself, you need to:
 
 # Demo
 
-git here
+
+![20230331_092901](https://user-images.githubusercontent.com/94564307/229073469-2ef927bc-786a-479e-ad52-26fa3c34db39.gif)
